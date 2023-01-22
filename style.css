@@ -4,7 +4,7 @@
     margin: 0;
 }
 .header{
-    background-image: url(images/banner/banner3.png);
+    background-image: url(images/banner/banner3.png);       /*  header banner  */
     height: 800px;
     background-size: cover;            /* The background image width will cover. */
 }
